@@ -1,6 +1,4 @@
-<template>
-  <div class="home">你好</div>
-</template>
+<template></template>
 
 <script>
 export default {};
